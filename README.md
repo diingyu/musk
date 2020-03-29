@@ -1,5 +1,26 @@
 # musk
 
+method:
+
+step1:
+
+download firefox driver;
+
+step2:
+
+install selenium;
+
+step3:
+
+instance by "APPOINTMENT" or "RUSHBUY";
+
+NOTE:
+
+start before appointment/rushbuy time about 1 hour, scan sign in jd.com, and wait the result.
+
+GOODLUCK！
+
+
 使用方法： 
 
 1.下载FireFox的驱动程序，在selenium的官网上可以找到下载链接； 
