@@ -2,21 +2,15 @@
 
 method:
 
-step1:
+step1: download firefox driver.
 
-download firefox driver;
+step2: install selenium.
 
-step2:
-
-install selenium;
-
-step3:
-
-instance by "APPOINTMENT" or "RUSHBUY";
+step3: instance by "APPOINTMENT" or "RUSHBUY".
 
 NOTE:
 
-start before appointment/rushbuy time about 1 hour, scan sign in jd.com, and wait the result.
+start before appointment/rushbuy time about 1 hour, scan and sign in jd.com, just wait the result.
 
 GOODLUCK！
 
